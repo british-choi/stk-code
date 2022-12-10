@@ -5,16 +5,16 @@
 # Translators:
 # Annop Chawwalitsitthikun <sourcecode@annopnod.com>, 2019
 # Annop Chawwalitsitthikun <sourcecode@annopnod.com>, 2019
-# Annop Chawwalitsitthikun <sourcecode@annopnod.com>, 2019-2021
+# Annop Chawwalitsitthikun <sourcecode@annopnod.com>, 2019-2022
 # Benau, 2020
 # Benau, 2020
 msgid ""
 msgstr ""
 "Project-Id-Version: SuperTuxKart\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-25 09:02+0800\n"
+"POT-Creation-Date: 2022-09-20 11:30+0800\n"
 "PO-Revision-Date: 2015-02-15 01:58+0000\n"
-"Last-Translator: Annop Chawwalitsitthikun <sourcecode@annopnod.com>, 2019-2021\n"
+"Last-Translator: Annop Chawwalitsitthikun <sourcecode@annopnod.com>, 2019-2022\n"
 "Language-Team: Thai (http://www.transifex.com/supertuxkart/supertuxkart/language/th/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -185,7 +185,7 @@ msgstr "กลับ"
 
 #. I18N: ./data/gui/dialogs/android/init_android.stkgui
 msgid "Select a type of control that you prefer"
-msgstr "เลือกประเภทการควบคุมที่คุณต้องการ\n "
+msgstr "เลือกประเภทการควบคุมที่คุณต้องการ"
 
 #. I18N: ./data/gui/dialogs/android/init_android.stkgui
 #. I18N: Control type
@@ -223,7 +223,7 @@ msgstr "การเร่งความเร็วอัตโนมัติ
 
 #. I18N: ./data/gui/dialogs/android/init_android.stkgui
 msgid "You can change it later in touch device settings."
-msgstr "คุณสามารถเปลี่ยนได้ในภายหลังในการตั้งค่าอุปกรณ์แบบสัมผัส\n "
+msgstr "คุณสามารถเปลี่ยนได้ในภายหลังในการตั้งค่าอุปกรณ์แบบสัมผัส"
 
 #. I18N: ./data/gui/dialogs/android/init_android.stkgui
 #. I18N: ./data/gui/dialogs/android/multitouch_settings.stkgui
@@ -384,12 +384,12 @@ msgstr "กลับสู่สภาพเดิม"
 
 #. I18N: ./data/gui/dialogs/custom_camera_settings.stkgui
 msgid "Camera Settings"
-msgstr "การตั้งค่ากล้อง\n "
+msgstr "การตั้งค่ากล้อง"
 
 #. I18N: ./data/gui/dialogs/custom_camera_settings.stkgui
 #. I18N: In the ui/camera settings
 msgid "Player camera"
-msgstr "กล้องของผู้เล่น\n "
+msgstr "กล้องของผู้เล่น"
 
 #. I18N: ./data/gui/dialogs/custom_camera_settings.stkgui
 #. I18N: In the ui/camera screen
@@ -399,12 +399,12 @@ msgstr "ค่าขอบเขตการมองเห็น"
 #. I18N: ./data/gui/dialogs/custom_camera_settings.stkgui
 #. I18N: In the ui/camera screen
 msgid "Distance"
-msgstr "ระยะทาง\n "
+msgstr "ระยะทาง"
 
 #. I18N: ./data/gui/dialogs/custom_camera_settings.stkgui
 #. I18N: In the ui/camera screen
 msgid "Angle"
-msgstr "มุม\n "
+msgstr "มุม"
 
 #. I18N: ./data/gui/dialogs/custom_camera_settings.stkgui
 #. I18N: In the ui/camera screen
@@ -688,7 +688,7 @@ msgstr "ช่วยเหลือ"
 #. I18N: ./data/gui/dialogs/online/network_ingame_dialog.stkgui
 #. I18N: Race paused button
 msgid "Quit Server"
-msgstr "ออกจากเซิร์ฟเวอร์\n "
+msgstr "ออกจากเซิร์ฟเวอร์"
 
 #. I18N: ./data/gui/dialogs/online/notification_dialog.stkgui
 #. I18N: User info dialog
@@ -774,7 +774,7 @@ msgstr "ความยาก"
 #. I18N: Difficulty
 #. I18N: ./data/gui/screens/race_setup.stkgui
 #. I18N: Difficulty
-#: src/race/race_manager.cpp:1291
+#: src/race/race_manager.cpp:1307
 msgid "Novice"
 msgstr "ง่าย"
 
@@ -786,7 +786,7 @@ msgstr "ง่าย"
 #. I18N: Difficulty
 #. I18N: ./data/gui/screens/race_setup.stkgui
 #. I18N: Difficulty
-#: src/race/race_manager.cpp:1292
+#: src/race/race_manager.cpp:1308
 msgid "Intermediate"
 msgstr "ปานกลาง"
 
@@ -798,7 +798,7 @@ msgstr "ปานกลาง"
 #. I18N: Difficulty
 #. I18N: ./data/gui/screens/race_setup.stkgui
 #. I18N: Difficulty
-#: src/race/race_manager.cpp:1293
+#: src/race/race_manager.cpp:1309
 msgid "Expert"
 msgstr "ยาก"
 
@@ -810,7 +810,7 @@ msgstr "ยาก"
 #. I18N: Difficulty
 #. I18N: ./data/gui/screens/race_setup.stkgui
 #. I18N: Difficulty
-#: src/race/race_manager.cpp:1294
+#: src/race/race_manager.cpp:1310
 msgid "SuperTux"
 msgstr "ซุปเปอร์ทัค"
 
@@ -830,7 +830,7 @@ msgstr "โหมดเกม"
 #. I18N: ./data/gui/screens/online/create_server.stkgui
 #. I18N: Multiplayer game mode
 #. I18N: Game mode
-#: src/network/server_config.cpp:263 src/race/race_manager.cpp:1264
+#: src/network/server_config.cpp:263 src/race/race_manager.cpp:1280
 #: supertuxkart.appdata.xml:33
 msgid "Normal Race"
 msgstr "แข่งขันแบบปกติ"
@@ -844,7 +844,7 @@ msgstr "แข่งขันแบบปกติ"
 #. I18N: ./data/gui/screens/online/create_server.stkgui
 #. I18N: Multiplayer game mode
 #. I18N: Game mode
-#: src/network/server_config.cpp:265 src/race/race_manager.cpp:1266
+#: src/network/server_config.cpp:265 src/race/race_manager.cpp:1282
 msgid "Time Trial"
 msgstr "ทำเวลา"
 
@@ -861,7 +861,7 @@ msgstr "ปะทะ"
 #. I18N: ./data/gui/screens/online/create_server.stkgui
 #. I18N: Multiplayer game mode
 #. I18N: Game mode
-#: src/network/server_config.cpp:267 src/race/race_manager.cpp:1280
+#: src/network/server_config.cpp:267 src/race/race_manager.cpp:1296
 #: supertuxkart.appdata.xml:41
 msgid "Soccer"
 msgstr "ฟุตบอล"
@@ -885,7 +885,7 @@ msgstr "เข้าร่วม"
 #. I18N: In the server info dialog
 #: src/states_screens/dialogs/server_info_dialog.cpp:278
 msgid "Bookmark this server"
-msgstr "บุ๊คมาร์คเซิร์ฟเวอร์นี้\n "
+msgstr "บุ๊คมาร์คเซิร์ฟเวอร์นี้"
 
 #. I18N: ./data/gui/dialogs/online/splitscreen_player_dialog.stkgui
 #. I18N: Splitscreen player in network
@@ -901,7 +901,7 @@ msgstr "ชื่อ"
 #. I18N: ./data/gui/dialogs/online/splitscreen_player_dialog.stkgui
 #. I18N: Splitscreen player in network
 msgid "Handicap"
-msgstr "แต้มต่อ\n "
+msgstr "แต้มต่อ"
 
 #. I18N: ./data/gui/dialogs/online/splitscreen_player_dialog.stkgui
 #. I18N: Splitscreen player in network
@@ -961,7 +961,7 @@ msgstr "กลับสู่เมนู"
 #. I18N: ./data/gui/dialogs/press_a_key_dialog.stkgui
 #. I18N: When changing input configurations
 msgid "Press fully and release..."
-msgstr "กดอย่างเต็มที่และปล่อย ...\n "
+msgstr "กดอย่างเต็มที่และปล่อย ..."
 
 #. I18N: ./data/gui/dialogs/press_a_key_dialog.stkgui
 #. I18N: When configuring input
@@ -971,7 +971,7 @@ msgstr "กำหนดให้กับปุ่ม ESC"
 #. I18N: ./data/gui/dialogs/press_a_key_dialog.stkgui
 #. I18N: When configuring input
 msgid "Assign nothing"
-msgstr "ไม่ต้องมอบหมายอะไร\n "
+msgstr "ไม่ต้องมอบหมายอะไร"
 
 #. I18N: ./data/gui/dialogs/select_challenge.stkgui
 #. I18N: ./data/gui/screens/race_setup.stkgui
@@ -1058,7 +1058,7 @@ msgstr "มาตรฐาน"
 #: src/states_screens/arenas_screen.cpp:82
 #: src/states_screens/easter_egg_screen.cpp:145
 #: src/states_screens/grand_prix_editor_screen.cpp:337
-#: src/states_screens/kart_selection.cpp:317
+#: src/states_screens/kart_selection.cpp:322
 #: src/states_screens/tracks_and_gp_screen.cpp:161
 msgid "Add-Ons"
 msgstr "ส่วนเพิ่มเติม"
@@ -1077,7 +1077,7 @@ msgstr "ส่วนเพิ่มเติม"
 #: src/states_screens/edit_track_screen.cpp:111
 #: src/states_screens/gp_info_screen.cpp:79
 #: src/states_screens/grand_prix_editor_screen.cpp:334
-#: src/states_screens/kart_selection.cpp:309
+#: src/states_screens/kart_selection.cpp:314
 #: src/states_screens/online/tracks_screen.cpp:355
 #: src/states_screens/tracks_and_gp_screen.cpp:151
 msgid "All"
@@ -1153,9 +1153,9 @@ msgstr "เลือกโกสรีเพลย์"
 #. I18N: ./data/gui/screens/high_score_selection.stkgui
 #. I18N: In the high score selection screen
 #. I18N: Game mode
-#: src/race/race_manager.cpp:1278
+#: src/race/race_manager.cpp:1294
 msgid "Egg Hunt"
-msgstr "ล่าไข่\n "
+msgstr "ล่าไข่"
 
 #. I18N: ./data/gui/screens/ghost_replay_selection.stkgui
 #. I18N: In the ghost replay selection screen
@@ -1175,7 +1175,7 @@ msgstr "แสดงรีเพลย์ที่ตรงกับความ
 #. I18N: ./data/gui/screens/ghost_replay_selection.stkgui
 #. I18N: In the ghost replay selection screen
 msgid "Only show replays matching the current version"
-msgstr "แสดงรีเพลย์ที่ตรงกับเวอร์ชันปัจจุบันเท่านั้น\n "
+msgstr "แสดงรีเพลย์ที่ตรงกับเวอร์ชันปัจจุบันเท่านั้น"
 
 #. I18N: ./data/gui/screens/ghost_replay_selection.stkgui
 #. I18N: In the ghost replay selection screen
@@ -1205,7 +1205,7 @@ msgstr "กลับทาง"
 #: src/states_screens/track_info_screen.cpp:284
 #: src/states_screens/track_info_screen.cpp:450
 msgid "Maximum time (min.)"
-msgstr "เวลาสูงสุด (นาที)\n "
+msgstr "เวลาสูงสุด (นาที)"
 
 #. I18N: ./data/gui/screens/gp_info.stkgui
 #. I18N: In the grand prix info screen
@@ -1422,7 +1422,7 @@ msgstr "ฟีเจอร์ของ SuperTuxKart มีหลายโหม�
 #. I18N: In the help menu
 msgid ""
 "Regular Race: All blows allowed, so collect powerups and use them smartly!"
-msgstr "การแข่งขันปกติ: อนุญาตให้มีการรวบรวมเพาเวอร์อัพและใช้อย่างชาญฉลาด!"
+msgstr "การแข่งขันปกติ:อนุญาตระเบิดทั้งหมดรวบรวมเพาเวอร์อัพและใช้อย่างชาญฉลาด!"
 
 #. I18N: ./data/gui/screens/help2.stkgui
 #. I18N: In the help menu
@@ -1595,7 +1595,7 @@ msgid ""
 "Mass - there are three classes of karts, depending on their mass: light, "
 "medium and heavy. Heavier karts are less affected by parachutes and are more"
 " resistant to explosions."
-msgstr "น้ำหนัก - มีหลายประเภทเบาปานกลางและหนัก รถแข่งที่หนักกว่าได้รับผลกระทบจากร่มชูชีพน้อยกว่าและทนทานต่อการระเบิดมากขึ้น\n "
+msgstr "น้ำหนัก - มีหลายประเภทเบาปานกลางและหนัก รถแข่งที่หนักกว่าได้รับผลกระทบจากร่มชูชีพน้อยกว่าและทนทานต่อการระเบิดมากขึ้น"
 
 #. I18N: ./data/gui/screens/help6.stkgui
 #. I18N: In the help menu
@@ -1666,7 +1666,7 @@ msgid ""
 "keyboard(s), each player will need a different set of keys, and most "
 "keyboards are not appropriate for multiplayer because they don't support "
 "multiple simultaneous keypresses."
-msgstr "อันดับแรกคุณจะต้องใช้อุปกรณ์อินพุตหลายตัว ใช้หน้าจอการกำหนดค่าอินพุตเพื่อตั้งค่า เกมแพดหรือจอยสติ๊กหลายตัวเหมาะอย่างยิ่ง: บนแป้นพิมพ์ผู้เล่นแต่ละคนจะต้องแยกออกจากกันและแป้นพิมพ์ไม่เหมาะสำหรับผู้เล่นหลายคนเพราะไม่สนับสนุนการกดปุ่มหลายปุ่มพร้อมกัน"
+msgstr "อันดับแรกคุณจะต้องใช้อุปกรณ์อินพุตหลายตัว ใช้หน้าจอการกำหนดค่าอินพุตเพื่อตั้งค่า เกมแพดหรือจอยสติ๊กหลายตัวเหมาะอย่างยิ่ง บนแป้นพิมพ์ผู้เล่นแต่ละคนจะต้องแยกออกจากกันและแป้นพิมพ์ไม่เหมาะสำหรับผู้เล่นหลายคนเพราะไม่สนับสนุนการกดปุ่มหลายปุ่มพร้อมกัน"
 
 #. I18N: ./data/gui/screens/help7.stkgui
 #. I18N: In the help menu
@@ -1688,7 +1688,7 @@ msgstr "การเลือกคะแนนสูง"
 #. I18N: Game mode
 #. I18N: Lap Trial: Complete as many laps as possible in a given amount of
 #. time.
-#: src/race/race_manager.cpp:1270 src/states_screens/race_setup_screen.cpp:142
+#: src/race/race_manager.cpp:1286 src/states_screens/race_setup_screen.cpp:142
 msgid "Lap Trial"
 msgstr ""
 
@@ -1813,22 +1813,22 @@ msgstr "สร้างเซิร์ฟเวอร์"
 #. I18N: In networking lobby
 #. I18N: In the networking lobby
 #: src/states_screens/online/networking_lobby.cpp:83
-#: src/states_screens/online/networking_lobby.cpp:880
-#: src/states_screens/online/networking_lobby.cpp:895
-#: src/states_screens/online/networking_lobby.cpp:1044
+#: src/states_screens/online/networking_lobby.cpp:881
+#: src/states_screens/online/networking_lobby.cpp:897
+#: src/states_screens/online/networking_lobby.cpp:1046
 msgid "Lobby"
 msgstr "ห้องโถ"
 
 #. I18N: ./data/gui/screens/online/networking_lobby.stkgui
 #. I18N: In the network lobby
-#: src/states_screens/online/networking_lobby.cpp:189
+#: src/states_screens/online/networking_lobby.cpp:190
 msgid "Start race"
 msgstr "เริ่มการแข่งขัน"
 
 #. I18N: ./data/gui/screens/online/networking_lobby.stkgui
 #. I18N: In the network lobby
 #. I18N: In networking lobby to configuration server settings
-#: src/states_screens/online/networking_lobby.cpp:197
+#: src/states_screens/online/networking_lobby.cpp:198
 msgid "Configuration"
 msgstr "การตั้งค่า"
 
@@ -2117,9 +2117,9 @@ msgstr "เพลง"
 #. I18N: In the audio options screen
 #. I18N: in the graphical options tooltip;
 #. indicates a graphical feature is enabled
-#: src/states_screens/dialogs/custom_video_settings.cpp:68
-#: src/states_screens/options/options_screen_video.cpp:611
-#: src/states_screens/options/options_screen_video.cpp:684
+#: src/states_screens/dialogs/custom_video_settings.cpp:70
+#: src/states_screens/options/options_screen_video.cpp:658
+#: src/states_screens/options/options_screen_video.cpp:731
 msgid "Enabled"
 msgstr "เปิดการใช้งาน"
 
@@ -2248,7 +2248,7 @@ msgstr "กล้อง"
 #. I18N: ./data/gui/screens/options_ui.stkgui
 #. I18N: In the ui settings
 msgid "Custom..."
-msgstr "กำหนดเอง...\n "
+msgstr "กำหนดเอง..."
 
 #. I18N: ./data/gui/screens/options_ui.stkgui
 #. I18N: In the ui settings
@@ -2272,13 +2272,13 @@ msgstr "เปิดใช้งานตัวจับเวลา speedrun"
 
 #. I18N: ./data/gui/screens/options_video.stkgui
 #. I18N: In the video settings
-msgid "Graphical Effects Level"
-msgstr "ระดับเอฟเฟคของกราฟิก"
+msgid "Render resolution"
+msgstr "ความละเอียดในการแสดงผล"
 
 #. I18N: ./data/gui/screens/options_video.stkgui
 #. I18N: In the video settings
-msgid "Render resolution"
-msgstr "ความละเอียดในการแสดงผล"
+msgid "Graphical Effects Level"
+msgstr "ระดับเอฟเฟคของกราฟิก"
 
 #. I18N: ./data/gui/screens/options_video.stkgui
 #. I18N: In the video settings
@@ -2288,7 +2288,7 @@ msgstr "ระดับ blur เอฟเฟกต์"
 #. I18N: ./data/gui/screens/options_video.stkgui
 #. I18N: In the video settings
 msgid "Vertical Sync"
-msgstr "ซิงค์แนวตั้ง\n "
+msgstr "ซิงค์แนวตั้ง"
 
 #. I18N: ./data/gui/screens/options_video.stkgui
 #. I18N: In the video settings
@@ -2413,7 +2413,7 @@ msgstr "ในผู้เล่นเดี่ยวคุณสามารถ
 #. I18N: ./data/tips.xml
 msgid ""
 "You can visit https://supertuxkart.net/ for more information about the game."
-msgstr "คุณสามารถเยี่ยมชม https://supertuxkart.net/ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเกม\n "
+msgstr "คุณสามารถเยี่ยมชม https://supertuxkart.net/ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเกม"
 
 #. I18N: ./data/tips.xml
 msgid "Short nitro boosts are more efficient."
@@ -2461,7 +2461,7 @@ msgstr "ช่วยเหลือ(ปุ่ม)มีประโยชน์�
 
 #. I18N: ./data/tips.xml
 msgid "Be careful when close to other karts, they may attack you!"
-msgstr "ระวังเมื่ออยู่ใกล้กับรถแข่งอื่นพวกเขาอาจโจมตีคุณ!\n "
+msgstr "ระวังเมื่ออยู่ใกล้กับรถแข่งอื่นพวกเขาอาจโจมตีคุณ!"
 
 #. I18N: ./data/tips.xml
 msgid ""
@@ -2516,8 +2516,8 @@ msgid "Amanda"
 msgstr "Amanda"
 
 #. I18N: ../stk-assets/karts/beastie/kart.xml
-msgid "Beastie"
-msgstr "Beastie"
+msgid "Godette"
+msgstr ""
 
 #. I18N: ../stk-assets/karts/emule/kart.xml
 msgid "Emule"
@@ -2645,7 +2645,7 @@ msgstr "โอ้ใช่เห็นเขาอยู่ในปราสา
 #. I18N: Cutscene subtitle from ../stk-assets/tracks/introcutscene2/scene.xml
 #. I18N: ../stk-assets/tracks/introcutscene2/scene.xml
 msgid "But I'm a fair creature, so I'll make you a deal."
-msgstr "แต่ฉันเป็นสัตว์ที่ยุติธรรมดังนั้นฉันจะทำให้คุณตกลง\n "
+msgstr "แต่ฉันเป็นสัตว์ที่ยุติธรรมดังนั้นฉันจะทำให้คุณตกลง"
 
 #. I18N: Cutscene subtitle from ../stk-assets/tracks/introcutscene2/scene.xml
 #. I18N: ../stk-assets/tracks/introcutscene2/scene.xml
@@ -2842,21 +2842,21 @@ msgid ""
 "created."
 msgstr "ไฟล์กำหนดค่าของคุณเก่าเกินไปดังนั้นจึงถูกลบและจะมีการสร้างใหม่"
 
-#: src/graphics/irr_driver.cpp:671
+#: src/graphics/irr_driver.cpp:710
 msgid "Video recording started."
 msgstr "เริ่มการบันทึกวิดีโอแล้ว"
 
-#: src/graphics/irr_driver.cpp:678
+#: src/graphics/irr_driver.cpp:717
 #, c-format
 msgid "Video saved in \"%s\"."
 msgstr "วิดีโอถูกบันทึกใน \"%s\""
 
-#: src/graphics/irr_driver.cpp:682
+#: src/graphics/irr_driver.cpp:721
 msgid "Encoding progress:"
 msgstr "ความคืบหน้าการเข้ารหัส:"
 
-#: src/graphics/irr_driver.cpp:1830 src/graphics/irr_driver.cpp:1865
-#: src/graphics/irr_driver.cpp:1870
+#: src/graphics/irr_driver.cpp:1885 src/graphics/irr_driver.cpp:1928
+#: src/graphics/irr_driver.cpp:1933
 #, c-format
 msgid "FPS: %d/%d/%d - %d KTris, Ping: %dms"
 msgstr "FPS:%d/%d/%d*%d KTris, Ping: %dms"
@@ -2893,7 +2893,7 @@ msgstr "ประสิทธิภาพการใช้ไนโตร"
 #: src/guiengine/widgets/player_kart_widget.cpp:758
 #: src/karts/controller/local_player_controller.cpp:452
 #: src/karts/controller/player_controller.cpp:413
-#: src/network/protocols/client_lobby.cpp:853
+#: src/network/protocols/client_lobby.cpp:870
 #: src/states_screens/dialogs/splitscreen_player_dialog.cpp:121
 #: src/states_screens/race_result_gui.cpp:1596
 #: src/states_screens/race_result_gui.cpp:1658
@@ -3521,14 +3521,14 @@ msgstr "%sมีระดับแบตเตอรี่ต่ำ"
 msgid ""
 "Connect your wiimote to the Bluetooth manager, then click on Ok. Detailed "
 "instructions at https://supertuxkart.net/Wiimote"
-msgstr "เชื่อมต่อ wiimote ของคุณกับตัวจัดการ Bluetooth จากนั้นคลิกตกลง รายละเอียดคำแนะนำที่\nhttps://supertuxkart.net/Wiimote"
+msgstr "เชื่อมต่อ wiimote ของคุณกับตัวจัดการ Bluetooth จากนั้นคลิกตกลง รายละเอียดคำแนะนำที่ https://supertuxkart.net/Wiimote"
 
 #: src/input/wiimote_manager.cpp:382
 msgid ""
 "Press the buttons 1+2 simultaneously on your wiimote to put it in discovery "
 "mode, then click on Ok. Detailed instructions at "
 "https://supertuxkart.net/Wiimote"
-msgstr "กดปุ่ม 1+2 พร้อมกันบน wiimote ของคุณเพื่อตั้งค่าให้อยู่ในโหมดการค้นพบ จากนั้นคลิก Ok\nรายละเอียดคำแนะนำที่  https://supertuxkart.net/Wiimote"
+msgstr "กดปุ่ม 1+2 พร้อมกันบน wiimote ของคุณเพื่อตั้งค่าให้อยู่ในโหมดการค้นพบ จากนั้นคลิกตกลง รายละเอียดคำแนะนำที่  https://supertuxkart.net/Wiimote"
 
 #: src/input/wiimote_manager.cpp:405
 #, c-format
@@ -3538,7 +3538,7 @@ msgstr[0] "ค้นพบ %dwiimotes"
 
 #: src/input/wiimote_manager.cpp:410
 msgid "Could not detect any wiimote :/"
-msgstr "ไม่พบ wiimote  : /\n "
+msgstr "ไม่พบ wiimote  : /"
 
 #: src/io/rich_presence.cpp:477
 msgid "Getting ready to race"
@@ -3550,7 +3550,7 @@ msgstr "เวลาลงโทษ !!"
 
 #: src/karts/controller/local_player_controller.cpp:316
 msgid "Don't accelerate before 'Set!'"
-msgstr "อย่าเร่งความเร็วก่อนเริ่มต้น\n "
+msgstr "อย่าเร่งความเร็วก่อนเริ่มต้น"
 
 #: src/karts/controller/spare_tire_ai.cpp:150
 msgid "You can have at most 3 lives!"
@@ -3560,21 +3560,21 @@ msgstr "คุณมี 3 ชีวิต"
 msgid "+1 life."
 msgstr "+1 ชีวิต."
 
-#: src/karts/kart.cpp:1022
-msgid "You were too slow!"
-msgstr "คุณช้าเกินไป!\n "
-
 #: src/karts/kart.cpp:1023
+msgid "You were too slow!"
+msgstr "คุณช้าเกินไป!"
+
+#: src/karts/kart.cpp:1024
 msgid "You won the race!"
 msgstr "คุณชนะการแข่งขัน!"
 
-#: src/karts/kart.cpp:1024
+#: src/karts/kart.cpp:1025
 #, c-format
 msgid "You finished the race in rank %d!"
 msgstr "คุณจบการแข่งขันในอันดับ %d!"
 
 #. I18N: Message shown in game to tell player left the game in network
-#: src/karts/kart_rewinder.cpp:126 src/network/protocols/client_lobby.cpp:1156
+#: src/karts/kart_rewinder.cpp:126 src/network/protocols/client_lobby.cpp:1175
 #, c-format
 msgid "%s left the game."
 msgstr "%sออกจากเกม"
@@ -3588,16 +3588,16 @@ msgid ""
 "Internet\")."
 msgstr "SuperTuxKart อาจเชื่อมต่อกับเซิร์ฟเวอร์เพื่อดาวน์โหลดส่วนเสริมและแจ้งการอัปเดตให้คุณทราบ โปรดอ่านนโยบายความเป็นส่วนตัวของเราที่ https://supertuxkart.net/Privacy คุณต้องการเปิดใช้คุณลักษณะนี้หรือไม่ (หากต้องการเปลี่ยนการตั้งค่านี้ในภายหลัง ให้ไปที่ตัวเลือก เลือกแท็บ 'ทั่วไป' และแก้ไข \"เชื่อมต่อกับอินเทอร์เน็ต\")"
 
-#: src/main.cpp:2379
+#: src/main.cpp:2381
 msgid "Your screen resolution is too low to run STK."
 msgstr "ความละเอียดของหน้าจอต่ำในการรัน STK."
 
-#: src/main.cpp:2430
+#: src/main.cpp:2432
 msgid ""
 "Your driver version is too old. Please install the latest video drivers."
 msgstr "ไดร์เวอร์การ์ดจอเก่ามาก.โปรดติดตั้งเวอร์ชั่นใหม่."
 
-#: src/main.cpp:2450
+#: src/main.cpp:2452
 #, c-format
 msgid ""
 "Your graphics driver appears to be very old. Please check if an update is "
@@ -3607,7 +3607,7 @@ msgstr "ไดรเวอร์กราฟิกของคุณดูเห
 
 #: src/main_loop.cpp:507 src/network/protocols/client_lobby.cpp:128
 msgid "Server connection timed out."
-msgstr "การเชื่อมต่อเซิร์ฟเวอร์หมดเวลา\n "
+msgstr "การเชื่อมต่อเซิร์ฟเวอร์หมดเวลา"
 
 #. I18N: Show when a player gets the red flag in CTF
 #: src/modes/capture_the_flag.cpp:189
@@ -3618,7 +3618,7 @@ msgstr "%s  มีธงแดง!"
 #. I18N: Show when the red flag is returned to its base in CTF
 #: src/modes/capture_the_flag.cpp:196
 msgid "The red flag has returned!"
-msgstr "ธงสีแดงกลับมาแล้ว!\n "
+msgstr "ธงสีแดงกลับมาแล้ว!"
 
 #. I18N: Show when a player gets the blue flag in CTF
 #: src/modes/capture_the_flag.cpp:207
@@ -3629,7 +3629,7 @@ msgstr "%s มีธงฟ้า!"
 #. I18N: Show when the blue flag is returned to its base in CTF
 #: src/modes/capture_the_flag.cpp:214
 msgid "The blue flag has returned!"
-msgstr "ธงสีน้ำเงินกลับมาแล้ว!\n "
+msgstr "ธงสีน้ำเงินกลับมาแล้ว!"
 
 #: src/modes/capture_the_flag.cpp:422
 #, c-format
@@ -3691,7 +3691,7 @@ msgstr[0] "%iอะไหล่รถแข่งมาแล้ว"
 
 #: src/modes/world.cpp:1425
 msgid "You have been eliminated!"
-msgstr "คุณถูกกำจัดแล้ว!\n "
+msgstr "คุณถูกกำจัดแล้ว!"
 
 #: src/modes/world.cpp:1432
 #, c-format
@@ -3700,41 +3700,41 @@ msgstr "'%s'ถูกกำจัดแล้ว"
 
 #: src/network/protocols/client_lobby.cpp:129
 msgid "Server has been shut down."
-msgstr "เซิร์ฟเวอร์ถูกปิด\n "
+msgstr "เซิร์ฟเวอร์ถูกปิด"
 
 #: src/network/protocols/client_lobby.cpp:130
 msgid "You were kicked from the server."
-msgstr "คุณถูกเตะจากเซิร์ฟเวอร์\n "
+msgstr "คุณถูกเตะจากเซิร์ฟเวอร์"
 
 #: src/network/protocols/client_lobby.cpp:132
 msgid "You were kicked: Ping too high."
-msgstr "คุณถูกเตะ: ปิงสูงเกินไป\n "
+msgstr "คุณถูกเตะ: ปิงสูงเกินไป"
 
-#: src/network/protocols/client_lobby.cpp:281
-#: src/network/protocols/client_lobby.cpp:897
+#: src/network/protocols/client_lobby.cpp:297
+#: src/network/protocols/client_lobby.cpp:914
 msgid "Bad network connection is detected."
-msgstr "ตรวจพบการเชื่อมต่อเครือข่ายไม่ดี\n "
+msgstr "ตรวจพบการเชื่อมต่อเครือข่ายไม่ดี"
 
-#: src/network/protocols/client_lobby.cpp:446
-#: src/network/protocols/server_lobby.cpp:3833
+#: src/network/protocols/client_lobby.cpp:463
+#: src/network/protocols/server_lobby.cpp:3837
 msgid "Bot"
 msgstr "บอท"
 
-#: src/network/protocols/client_lobby.cpp:627
+#: src/network/protocols/client_lobby.cpp:644
 #, c-format
 msgid "%s disconnected."
 msgstr "%s หยุดการเชื่อมต่อ"
 
 #. I18N: Message shown in network lobby to tell user that
 #. player name is clickable
-#: src/network/protocols/client_lobby.cpp:658
+#: src/network/protocols/client_lobby.cpp:675
 msgid ""
 "Press player name in the list for player management and ranking information."
 msgstr "กดชื่อผู้เล่นในรายการเพื่อจัดการผู้เล่นและข้อมูลการจัดอันดับ"
 
 #. I18N: In the networking lobby
 #. I18N: In server info dialog
-#: src/network/protocols/client_lobby.cpp:724
+#: src/network/protocols/client_lobby.cpp:741
 #: src/states_screens/dialogs/high_score_info_dialog.cpp:115
 #: src/states_screens/dialogs/server_info_dialog.cpp:96
 #: src/states_screens/race_result_gui.cpp:2008
@@ -3743,13 +3743,13 @@ msgid "Difficulty: %s"
 msgstr "ความยาก %s"
 
 #. I18N: In the networking lobby
-#: src/network/protocols/client_lobby.cpp:729
+#: src/network/protocols/client_lobby.cpp:746
 #, c-format
 msgid "Max players: %d"
 msgstr "ผู้เล่นสูงสุด %d"
 
 #. I18N: In server info dialog
-#: src/network/protocols/client_lobby.cpp:742
+#: src/network/protocols/client_lobby.cpp:759
 #: src/states_screens/dialogs/high_score_info_dialog.cpp:131
 #: src/states_screens/dialogs/server_info_dialog.cpp:100
 #, c-format
@@ -3757,16 +3757,16 @@ msgid "Game mode: %s"
 msgstr "โหมดเกม %s"
 
 #. I18N: In the create server screen for soccer server
-#: src/network/protocols/client_lobby.cpp:755
+#: src/network/protocols/client_lobby.cpp:772
 #: src/states_screens/dialogs/server_configuration_dialog.cpp:174
 #: src/states_screens/high_score_selection.cpp:158
 #: src/states_screens/online/create_server_screen.cpp:246
 #: src/states_screens/track_info_screen.cpp:376
 msgid "Time limit"
-msgstr "เวลาที่จำกัด\n "
+msgstr "เวลาที่จำกัด"
 
 #. I18N: In the create server screen for soccer server
-#: src/network/protocols/client_lobby.cpp:756
+#: src/network/protocols/client_lobby.cpp:773
 #: src/states_screens/dialogs/server_configuration_dialog.cpp:175
 #: src/states_screens/online/create_server_screen.cpp:248
 #: src/states_screens/track_info_screen.cpp:377
@@ -3774,102 +3774,102 @@ msgid "Goals limit"
 msgstr "เป้าหมายที่จำกัด"
 
 #. I18N: In the networking lobby
-#: src/network/protocols/client_lobby.cpp:760
+#: src/network/protocols/client_lobby.cpp:777
 #, c-format
 msgid "Soccer game type: %s"
 msgstr "ประเภทการแข่งขันฟุตบอล %s"
 
-#: src/network/protocols/client_lobby.cpp:770
+#: src/network/protocols/client_lobby.cpp:787
 #, c-format
 msgid "Grand prix progress: %d / %d"
 msgstr "ความคืบหน้ากรังปรีซ์%d/%d"
 
 #. I18N: Display when all players are in red or blue team, which the race
 #. will not be allowed to start
-#: src/network/protocols/client_lobby.cpp:889
+#: src/network/protocols/client_lobby.cpp:906
 msgid "All players joined red or blue team."
 msgstr "ผู้เล่นทั้งหมดเข้าทีมแดงหรือทีมฟ้า"
 
 #. I18N: Display when a player is allow to control the server
-#: src/network/protocols/client_lobby.cpp:909
+#: src/network/protocols/client_lobby.cpp:926
 msgid "You are now the owner of server."
 msgstr "ตอนนี้คุณเป็นเจ้าของเซิร์ฟเวอร์"
 
-#: src/network/protocols/client_lobby.cpp:952
+#: src/network/protocols/client_lobby.cpp:969
 msgid "Connection refused: Server is busy."
 msgstr "การเชื่อมต่อถูกปฏิเสธ: เซิร์ฟเวอร์ไม่ว่าง"
 
-#: src/network/protocols/client_lobby.cpp:957
+#: src/network/protocols/client_lobby.cpp:974
 msgid "Connection refused: You are banned from the server."
 msgstr "การเชื่อมต่อถูกปฏิเสธ: คุณถูกแบนจากเซิร์ฟเวอร์"
 
-#: src/network/protocols/client_lobby.cpp:972
+#: src/network/protocols/client_lobby.cpp:989
 msgid "Connection refused: Server password is incorrect."
 msgstr "การเชื่อมต่อถูกปฏิเสธ: รหัสผ่านเซิร์ฟเวอร์ไม่ถูกต้อง"
 
-#: src/network/protocols/client_lobby.cpp:976
+#: src/network/protocols/client_lobby.cpp:993
 msgid "Connection refused: Game data is incompatible."
 msgstr "การเชื่อมต่อถูกปฏิเสธ: ข้อมูลเกมเข้ากันไม่ได้"
 
-#: src/network/protocols/client_lobby.cpp:980
+#: src/network/protocols/client_lobby.cpp:997
 msgid "Connection refused: Server is full."
 msgstr "การเชื่อมต่อถูกปฏิเสธ: เซิร์ฟเวอร์เต็ม"
 
-#: src/network/protocols/client_lobby.cpp:984
+#: src/network/protocols/client_lobby.cpp:1001
 msgid "Connection refused: Invalid player connecting."
 msgstr "การเชื่อมต่อถูกปฏิเสธ: การเชื่อมต่อผู้เล่นไม่ถูกต้อง"
 
-#: src/network/protocols/client_lobby.cpp:1012
+#: src/network/protocols/client_lobby.cpp:1029
 msgid "Failed to start the network game."
 msgstr "ไม่สามารถเริ่มเกมในเครือข่าย"
 
 #. I18N: Error message shown if live join or spectate failed in network
-#: src/network/protocols/client_lobby.cpp:1225
+#: src/network/protocols/client_lobby.cpp:1244
 msgid "The game has ended, you can't live join or spectate anymore."
 msgstr "เกมดังกล่าวสิ้นสุดลงคุณจะไม่สามารถเข้าร่วมหรือชมภาพสดได้อีกต่อไป"
 
 #. I18N: Error message shown if live join failed in network
-#: src/network/protocols/client_lobby.cpp:1229
+#: src/network/protocols/client_lobby.cpp:1248
 msgid "No remaining place in the arena - live join disabled."
 msgstr "ไม่มีสถานที่ที่เหลืออยู่ในสนามรบ- ปิดการเข้าร่วมแบบสด"
 
 #. I18N: Error message shown if only 1 player remains in network
-#: src/network/protocols/client_lobby.cpp:1233
+#: src/network/protocols/client_lobby.cpp:1252
 msgid "Only 1 player remaining, returning to lobby."
 msgstr "เหลือผู้เล่นเพียง 1 คนกลับไปที่ห้องโถง"
 
-#: src/network/protocols/client_lobby.cpp:1239
+#: src/network/protocols/client_lobby.cpp:1258
 msgid "Server owner quit the game."
 msgstr "เจ้าของเซิร์ฟเวอร์ออกจากเกม"
 
 #. I18N: Status shown to player when he will be spectating the next game
-#: src/network/protocols/client_lobby.cpp:1243
+#: src/network/protocols/client_lobby.cpp:1262
 msgid "You will be spectating the next game."
 msgstr "คุณจะได้ชมเกมถัดไป"
 
 #. I18N: Show when player join red team of the started game in
 #. network
-#: src/network/protocols/client_lobby.cpp:1411
+#: src/network/protocols/client_lobby.cpp:1438
 #, c-format
 msgid "%s joined the red team."
 msgstr "%sเข้าร่วมทีมสีแดง"
 
 #. I18N: Show when player join blue team of the started game in
 #. network
-#: src/network/protocols/client_lobby.cpp:1417
+#: src/network/protocols/client_lobby.cpp:1444
 #, c-format
 msgid "%s joined the blue team."
 msgstr "%sเข้าร่วมทีมสีน้ำเงิน"
 
 #. I18N: Show when player join the started game in network
-#: src/network/protocols/client_lobby.cpp:1423
+#: src/network/protocols/client_lobby.cpp:1450
 #, c-format
 msgid "%s joined the game."
 msgstr "%sเข้าร่วมเกม"
 
 #. I18N: Message shown in game to tell the player it's possible to change
 #. the camera target in spectate mode of network
-#: src/network/protocols/client_lobby.cpp:1614
+#: src/network/protocols/client_lobby.cpp:1641
 #, c-format
 msgid ""
 "Press <%s> or <%s> to change the targeted player, <%s> or <%s> for the "
@@ -3877,23 +3877,23 @@ msgid ""
 msgstr "กด <%s> หรือ <%s> เพื่อเปลี่ยนผู้เล่นเป้าหมาย <%s> หรือ <%s> สำหรับตำแหน่งกล้อง"
 
 #. I18N: Tell player he has successfully report this named player
-#: src/network/protocols/client_lobby.cpp:1630
+#: src/network/protocols/client_lobby.cpp:1657
 #, c-format
 msgid "Successfully reported %s."
 msgstr "รายงานสำเร็จแล้ว %s"
 
 #. I18N: Shown when there is download error for assets download
 #. in the first run
-#: src/network/protocols/client_lobby.cpp:1916
+#: src/network/protocols/client_lobby.cpp:1943
 #: src/states_screens/dialogs/download_assets.cpp:251
 msgid ""
 "Failed to download assets, check your storage space or internet connection "
 "and try again later."
-msgstr "ดาวน์โหลดเนื้อหาไม่สำเร็จ ตรวจสอบพื้นที่เก็บข้อมูลหรือการเชื่อมต่ออินเทอร์เน็ตแล้วลองอีกครั้งในภายหลัง\n "
+msgstr "ดาวน์โหลดเนื้อหาไม่สำเร็จ ตรวจสอบพื้นที่เก็บข้อมูลหรือการเชื่อมต่ออินเทอร์เน็ตแล้วลองอีกครั้งในภายหลัง"
 
 #: src/network/protocols/connect_to_server.cpp:230
 msgid "No quick play server available."
-msgstr "ไม่มีเซิร์ฟเวอร์การเล่นด่วน\n "
+msgstr "ไม่มีเซิร์ฟเวอร์การเล่นด่วน"
 
 #: src/network/protocols/connect_to_server.cpp:380
 #, c-format
@@ -3906,7 +3906,7 @@ msgstr "ไม่สามารถเชื่อมต่อกับเซิ
 msgid "Failed to detect port number for server %s."
 msgstr "ไม่สามารถตรวจจับหมายเลขพอร์ตสำหรับเซิร์ฟเวอร์ %s"
 
-#: src/network/protocols/lobby_protocol.cpp:292
+#: src/network/protocols/lobby_protocol.cpp:294
 msgid "Network grand prix has been finished."
 msgstr "เครือข่ายกรังปรีซ์เสร็จสิ้นแล้ว"
 
@@ -3916,7 +3916,7 @@ msgstr "ทำเวลา (กรังปรีซ์)"
 
 #. I18N: Game mode
 #. I18N: In the create server screen for battle server
-#: src/network/server_config.cpp:271 src/race/race_manager.cpp:1274
+#: src/network/server_config.cpp:271 src/race/race_manager.cpp:1290
 #: src/states_screens/dialogs/server_configuration_dialog.cpp:161
 #: src/states_screens/online/create_server_screen.cpp:230
 #: src/states_screens/track_info_screen.cpp:252
@@ -3925,7 +3925,7 @@ msgstr "ฟรีฟอออร์"
 
 #. I18N: Game mode
 #. I18N: In the create server screen for battle server
-#: src/network/server_config.cpp:273 src/race/race_manager.cpp:1276
+#: src/network/server_config.cpp:273 src/race/race_manager.cpp:1292
 #: src/states_screens/dialogs/server_configuration_dialog.cpp:162
 #: src/states_screens/online/create_server_screen.cpp:232
 msgid "Capture The Flag"
@@ -3963,11 +3963,11 @@ msgstr "%sขณะนี้อยู่บนเซิร์ฟเวอร์%
 #, c-format
 msgid "You have %d new friend request!"
 msgid_plural "You have %d new friend requests!"
-msgstr[0] "คุณ %dมีคำขอเป็นเพื่อนใหม่!\n "
+msgstr[0] "คุณ %dมีคำขอเป็นเพื่อนใหม่!"
 
 #: src/online/online_player_profile.cpp:556
 msgid "You have a new friend request!"
-msgstr "คุณมีคำขอเป็นเพื่อนใหม่!\n "
+msgstr "คุณมีคำขอเป็นเพื่อนใหม่!"
 
 #: src/online/xml_request.cpp:83
 msgid ""
@@ -3994,12 +3994,12 @@ msgid ""
 msgstr "ไฟล์บันทึกคะแนนสูงสุดมันเก่าเกินไป\nคะแนนสูงสุดทั้งหมดถูกลบ"
 
 #. I18N: Game mode
-#: src/race/race_manager.cpp:1268
+#: src/race/race_manager.cpp:1284
 msgid "Follow the Leader"
-msgstr "ตามผู้นำ\n "
+msgstr "ตามผู้นำ"
 
 #. I18N: Game mode
-#: src/race/race_manager.cpp:1272 src/states_screens/track_info_screen.cpp:251
+#: src/race/race_manager.cpp:1288 src/states_screens/track_info_screen.cpp:251
 msgid "3 Strikes Battle"
 msgstr "ตี 3 ครั้ง"
 
@@ -4082,7 +4082,7 @@ msgstr "ขออภัยเกิดข้อผิดพลาดขณะต
 #. I18N: track group name
 #: src/states_screens/arenas_screen.cpp:80
 #: src/states_screens/easter_egg_screen.cpp:143
-#: src/states_screens/kart_selection.cpp:315
+#: src/states_screens/kart_selection.cpp:320
 #: src/states_screens/tracks_and_gp_screen.cpp:159
 msgid "standard"
 msgstr "มาตรฐาน"
@@ -4091,8 +4091,8 @@ msgstr "มาตรฐาน"
 #: src/states_screens/arenas_screen.cpp:326
 #: src/states_screens/easter_egg_screen.cpp:225
 #: src/states_screens/easter_egg_screen.cpp:256
-#: src/states_screens/kart_selection.cpp:936
-#: src/states_screens/kart_selection.cpp:1577
+#: src/states_screens/kart_selection.cpp:952
+#: src/states_screens/kart_selection.cpp:1593
 #: src/states_screens/race_setup_screen.cpp:101
 msgid "Locked : solve active challenges to gain access to more!"
 msgstr "ล็อค: แก้ปัญหาแชลเล็นเพื่อรับการเข้าถึงมากขึ้น!"
@@ -4109,7 +4109,7 @@ msgstr[0] "%dสนามรบไม่พร้อมใช้งานใน�
 
 #: src/states_screens/credits.cpp:184
 msgid "translator-credits"
-msgstr "Launchpad Contributions:\nAnnop Chawwalitsitthikun, 2019\nAnnop Chawwalitsitthikun, 2019-2021\nBenau, 2020"
+msgstr "เครดิตผู้แปล"
 
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:65
 msgctxt "achievement_info"
@@ -4129,12 +4129,12 @@ msgstr "เติมเต็มเป้าหมายย่อยทั้ง
 #. I18N: For achievements, a parent goal linking logically several subgoals
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:164
 msgid "Fulfill all the subgoals at the same time"
-msgstr "บรรลุเป้าหมายย่อยทั้งหมดในเวลาเดียวกัน\n "
+msgstr "บรรลุเป้าหมายย่อยทั้งหมดในเวลาเดียวกัน"
 
 #. I18N: For achievements, a parent goal linking logically several subgoals
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:166
 msgid "Fulfill at least one subgoal"
-msgstr "บรรลุเป้าหมายย่อยอย่างน้อยหนึ่งประตู\n "
+msgstr "บรรลุเป้าหมายย่อยอย่างน้อยหนึ่งประตู"
 
 #. I18N: For achievements, a parent goal linking logically several subgoals
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:168
@@ -4153,7 +4153,7 @@ msgstr "ชนะการแข่งขัน"
 #. added to multiple different goals.
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:172
 msgid "Normal races won"
-msgstr "ชนะการแข่งขันแบบปกติ\n "
+msgstr "ชนะการแข่งขันแบบปกติ"
 
 #. I18N: A goal for achievements. If this text is in (), it's a precision
 #. added to multiple different goals.
@@ -4171,7 +4171,7 @@ msgstr "ชนะการแข่งขันแบบตามผู้นำ
 #. added to multiple different goals.
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:178
 msgid "Consecutive won races"
-msgstr "ชนะการแข่งขันติดต่อกัน\n "
+msgstr "ชนะการแข่งขันติดต่อกัน"
 
 #. I18N: A goal for achievements. If this text is in (), it's a precision
 #. added to multiple different goals.
@@ -4189,7 +4189,7 @@ msgstr "เริ่มการแข่งขันแบบง่าย"
 #. added to multiple different goals.
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:184
 msgid "Novice races finished"
-msgstr "สิ้นสุดการแข่งขันแบบง่าย\n "
+msgstr "สิ้นสุดการแข่งขันแบบง่าย"
 
 #. I18N: A goal for achievements. If this text is in (), it's a precision
 #. added to multiple different goals.
@@ -4237,7 +4237,7 @@ msgstr "เริ่มการแข่งขันแบบปกติ"
 #. added to multiple different goals.
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:200
 msgid "Normal races finished"
-msgstr "สิ้นสุดการแข่งขันแบบปกติ\n "
+msgstr "สิ้นสุดการแข่งขันแบบปกติ"
 
 #. I18N: A goal for achievements. If this text is in (), it's a precision
 #. added to multiple different goals.
@@ -4249,7 +4249,7 @@ msgstr "เริ่มการแข่งขันแบบทำเวลา
 #. added to multiple different goals.
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:204
 msgid "Time-trial races finished"
-msgstr "สิ้นสุดการแข่งขันแบบทำเวลา\n "
+msgstr "สิ้นสุดการแข่งขันแบบทำเวลา"
 
 #. I18N: A goal for achievements. If this text is in (), it's a precision
 #. added to multiple different goals.
@@ -4267,7 +4267,7 @@ msgstr "สิ้นสุดการแข่งขันแบบตามผ
 #. added to multiple different goals.
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:210
 msgid "3 Strikes battles started"
-msgstr "โจมตี 3 ครั้งเริ่มต้นแล้ว\n "
+msgstr "โจมตี 3 ครั้งเริ่มต้นแล้ว"
 
 #. I18N: A goal for achievements. If this text is in (), it's a precision
 #. added to multiple different goals.
@@ -4285,7 +4285,7 @@ msgstr "เริ่มการแข่งขันแบบฟุตบอล
 #. added to multiple different goals.
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:216
 msgid "Soccer matches finished"
-msgstr "สิ้นสุดการแข่งขันแบบฟุตบอล\n "
+msgstr "สิ้นสุดการแข่งขันแบบฟุตบอล"
 
 #. I18N: A goal for achievements. If this text is in (), it's a precision
 #. added to multiple different goals.
@@ -4459,7 +4459,7 @@ msgstr "การแข่งขันที่มีจำนวนรอบน
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:284
 #: src/states_screens/dialogs/achievement_progress_dialog.cpp:309
 msgid "Races with more than the default lap number"
-msgstr "การแข่งขันที่มีมากกว่าจำนวนรอบเริ่มต้น\n "
+msgstr "การแข่งขันที่มีมากกว่าจำนวนรอบเริ่มต้น"
 
 #. I18N: A goal for achievements. If this text is in (), it's a precision
 #. added to multiple different goals.
@@ -4539,7 +4539,7 @@ msgstr "ขนาด: %s"
 #: src/states_screens/dialogs/addons_pack.cpp:220
 #: src/states_screens/dialogs/download_assets.cpp:201
 msgid "Sorry, downloading the add-on failed"
-msgstr "ขออภัย การดาวน์โหลดส่วนเสริมล้มเหลว\n "
+msgstr "ขออภัย การดาวน์โหลดส่วนเสริมล้มเหลว"
 
 #: src/states_screens/dialogs/addons_loading.cpp:372
 #, c-format
@@ -4550,7 +4550,7 @@ msgstr "ปัญหาในการติดตั้งส่วนเสร
 #: src/states_screens/dialogs/addons_loading.cpp:434
 #: src/states_screens/dialogs/download_assets.cpp:266
 msgid "Try again"
-msgstr "ลองอีกครั้ง\n "
+msgstr "ลองอีกครั้ง"
 
 #: src/states_screens/dialogs/addons_loading.cpp:423
 #, c-format
@@ -4559,15 +4559,15 @@ msgstr "ปัญหาในการลบส่วนเสริม %s"
 
 #: src/states_screens/dialogs/addons_pack.cpp:66
 msgid "Background download completed."
-msgstr "ดาวน์โหลดพื้นหลังเสร็จแล้ว\n "
+msgstr "ดาวน์โหลดเบื้องหลังเสร็จแล้ว"
 
 #: src/states_screens/dialogs/addons_pack.cpp:127
 msgid "Background download"
-msgstr "ดาวน์โหลดพื้นหลัง\n "
+msgstr "ดาวน์โหลดเบื้องหลัง"
 
 #: src/states_screens/dialogs/addons_pack.cpp:136
 msgid "Background download has already started."
-msgstr "การดาวน์โหลดพื้นหลังเริ่มต้นขึ้นแล้ว\n "
+msgstr "การดาวน์โหลดเบื้องหลังเริ่มต้นขึ้นแล้ว"
 
 #: src/states_screens/dialogs/change_password_dialog.cpp:135
 msgid "Current password invalid."
@@ -4617,55 +4617,55 @@ msgstr "Drone chase"
 #. I18N: custom video settings
 #: src/states_screens/dialogs/custom_camera_settings.cpp:103
 #: src/states_screens/options/options_screen_ui.cpp:160
-#: src/states_screens/options/options_screen_video.cpp:531
-#: src/states_screens/options/options_screen_video.cpp:568
-#: src/states_screens/options/options_screen_video.cpp:596
+#: src/states_screens/options/options_screen_video.cpp:577
+#: src/states_screens/options/options_screen_video.cpp:615
+#: src/states_screens/options/options_screen_video.cpp:643
 msgid "Custom"
-msgstr "กำหนดเอง\n "
+msgstr "กำหนดเอง"
 
 #. I18N: Geometry level disabled : lowest level, no details
 #. I18N: in the graphical options tooltip;
 #. indicates a graphical feature is disabled
-#: src/states_screens/dialogs/custom_video_settings.cpp:66
-#: src/states_screens/dialogs/custom_video_settings.cpp:73
-#: src/states_screens/dialogs/custom_video_settings.cpp:89
+#: src/states_screens/dialogs/custom_video_settings.cpp:68
+#: src/states_screens/dialogs/custom_video_settings.cpp:75
+#: src/states_screens/dialogs/custom_video_settings.cpp:91
 #: src/states_screens/online/create_server_screen.cpp:210
-#: src/states_screens/options/options_screen_video.cpp:242
-#: src/states_screens/options/options_screen_video.cpp:614
-#: src/states_screens/options/options_screen_video.cpp:685
+#: src/states_screens/options/options_screen_video.cpp:263
+#: src/states_screens/options/options_screen_video.cpp:661
+#: src/states_screens/options/options_screen_video.cpp:732
 msgid "Disabled"
 msgstr "ใช้การไม่ได้"
 
 #. I18N: if only important particles effects is enabled
-#: src/states_screens/dialogs/custom_video_settings.cpp:67
-#: src/states_screens/options/options_screen_video.cpp:616
+#: src/states_screens/dialogs/custom_video_settings.cpp:69
+#: src/states_screens/options/options_screen_video.cpp:663
 msgid "Important only"
 msgstr "สำคัญเท่านั้น"
 
 #. I18N: Geometry level low : few details are displayed
 #. I18N: in the graphical options tooltip;
 #. indicates the rendered image quality is low
-#: src/states_screens/dialogs/custom_video_settings.cpp:75
-#: src/states_screens/dialogs/custom_video_settings.cpp:84
-#: src/states_screens/dialogs/custom_video_settings.cpp:90
-#: src/states_screens/options/options_screen_video.cpp:623
+#: src/states_screens/dialogs/custom_video_settings.cpp:77
+#: src/states_screens/dialogs/custom_video_settings.cpp:86
+#: src/states_screens/dialogs/custom_video_settings.cpp:92
+#: src/states_screens/options/options_screen_video.cpp:670
 msgid "Low"
 msgstr "ต่ำ"
 
 #. I18N: Geometry level high : everything is displayed
 #. I18N: in the graphical options tooltip;
 #. indicates the rendered image quality is high
-#: src/states_screens/dialogs/custom_video_settings.cpp:77
-#: src/states_screens/dialogs/custom_video_settings.cpp:85
-#: src/states_screens/dialogs/custom_video_settings.cpp:91
-#: src/states_screens/options/options_screen_video.cpp:626
+#: src/states_screens/dialogs/custom_video_settings.cpp:79
+#: src/states_screens/dialogs/custom_video_settings.cpp:87
+#: src/states_screens/dialogs/custom_video_settings.cpp:93
+#: src/states_screens/options/options_screen_video.cpp:673
 msgid "High"
 msgstr "สูง"
 
 #. I18N: in the graphical options tooltip;
 #. indicates the rendered image quality is very low
-#: src/states_screens/dialogs/custom_video_settings.cpp:83
-#: src/states_screens/options/options_screen_video.cpp:620
+#: src/states_screens/dialogs/custom_video_settings.cpp:85
+#: src/states_screens/options/options_screen_video.cpp:667
 msgid "Very Low"
 msgstr "ต่ำมาก"
 
@@ -4874,29 +4874,29 @@ msgstr "กดปุ่มใดก็ได้...\n(กด ESC เพื่อ�
 
 #: src/states_screens/dialogs/press_a_key_dialog.cpp:49
 msgid "Press any key..."
-msgstr "กดปุ่มใดก็ได้...\n "
+msgstr "กดปุ่มใดก็ได้..."
 
 #: src/states_screens/dialogs/race_paused_dialog.cpp:115
-#: src/states_screens/online/networking_lobby.cpp:246
-#: src/states_screens/online/networking_lobby.cpp:999
+#: src/states_screens/online/networking_lobby.cpp:247
+#: src/states_screens/online/networking_lobby.cpp:1001
 msgid "Chat is disabled, enable in options menu."
-msgstr "แชทถูกปิดใช้งาน เปิดใช้งานในเมนูตัวเลือก\n "
+msgstr "แชทถูกปิดใช้งาน เปิดใช้งานในเมนูตัวเลือก"
 
 #: src/states_screens/dialogs/race_paused_dialog.cpp:130
 msgid "Back to Battle"
-msgstr "กลับสู่การต่อสู้\n "
+msgstr "กลับสู่การต่อสู้"
 
 #: src/states_screens/dialogs/race_paused_dialog.cpp:133
 msgid "Setup New Game"
-msgstr "ตั้งค่าเกมใหม่\n "
+msgstr "ตั้งค่าเกมใหม่"
 
 #: src/states_screens/dialogs/race_paused_dialog.cpp:135
 msgid "Restart Battle"
-msgstr "เริ่มการต่อสู้ใหม่\n "
+msgstr "เริ่มการต่อสู้ใหม่"
 
 #: src/states_screens/dialogs/race_paused_dialog.cpp:137
 msgid "Exit Battle"
-msgstr "ออกจากการต่อสู้\n "
+msgstr "ออกจากการต่อสู้"
 
 #: src/states_screens/dialogs/race_paused_dialog.cpp:144
 #: src/states_screens/race_result_gui.cpp:347
@@ -4912,7 +4912,7 @@ msgstr "ออกจากแข่งขัน"
 #: src/states_screens/dialogs/ranking_callback.hpp:44
 #, c-format
 msgid "%s has no ranking yet."
-msgstr "%sยังไม่มีอันดับ\n "
+msgstr "%sยังไม่มีอันดับ"
 
 #: src/states_screens/dialogs/ranking_callback.hpp:56
 #, c-format
@@ -5029,20 +5029,20 @@ msgstr "คะแนน"
 #. the user time played on server
 #: src/states_screens/dialogs/server_info_dialog.cpp:137
 msgid "Time played"
-msgstr "เวลาเล่น\n "
+msgstr "เวลาเล่น"
 
 #: src/states_screens/dialogs/server_info_dialog.cpp:269
 #: src/states_screens/dialogs/server_info_dialog.cpp:283
 msgid "Remove from bookmarks"
-msgstr "นำออกจากบุ๊กมาร์ก\n "
+msgstr "นำออกจากบุ๊กมาร์ก"
 
 #: src/states_screens/dialogs/splitscreen_player_dialog.cpp:130
 msgid "Input device already exists."
-msgstr "มีอุปกรณ์อินพุตอยู่แล้ว\n "
+msgstr "มีอุปกรณ์อินพุตอยู่แล้ว"
 
 #: src/states_screens/dialogs/splitscreen_player_dialog.cpp:147
 msgid "No player available for connecting to server."
-msgstr "ไม่มีผู้เล่นที่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้\n "
+msgstr "ไม่มีผู้เล่นที่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้"
 
 #. I18N: In the user info dialog
 #: src/states_screens/dialogs/user_info_dialog.cpp:56
@@ -5085,25 +5085,25 @@ msgstr "การประมวลผล"
 
 #: src/states_screens/dialogs/vote_dialog.cpp:169
 msgid "Fetching last vote"
-msgstr "กำลังเรียกคะแนนโหวตล่าสุด\n "
+msgstr "กำลังเรียกคะแนนโหวตล่าสุด"
 
 #: src/states_screens/dialogs/vote_dialog.cpp:188
 msgid "You can adapt your previous rating by clicking the stars beneath."
-msgstr "คุณสามารถปรับคะแนนก่อนหน้าของคุณโดยคลิกที่ดาวด้านล่าง\n "
+msgstr "คุณสามารถปรับคะแนนก่อนหน้าของคุณโดยคลิกที่ดาวด้านล่าง"
 
 #: src/states_screens/dialogs/vote_dialog.cpp:193
 msgid ""
 "You have not yet voted for this addon. Select your desired rating by "
 "clicking the stars beneath"
-msgstr "คุณยังไม่ได้ลงคะแนนให้ส่วนเสริมนี้ เลือกคะแนนที่คุณต้องการโดยคลิกที่ดาวด้านล่าง\n "
+msgstr "คุณยังไม่ได้ลงคะแนนให้ส่วนเสริมนี้ เลือกคะแนนที่คุณต้องการโดยคลิกที่ดาวด้านล่าง"
 
 #: src/states_screens/dialogs/vote_dialog.cpp:227
 msgid "Vote successful! You can now close the window."
-msgstr "โหวตสำเร็จ! คุณสามารถปิดหน้าต่างได้แล้ว\n "
+msgstr "โหวตสำเร็จ! คุณสามารถปิดหน้าต่างได้แล้ว"
 
 #: src/states_screens/dialogs/vote_dialog.cpp:243
 msgid "Performing vote"
-msgstr "ทำการลงคะแนน\n "
+msgstr "ทำการลงคะแนน"
 
 #: src/states_screens/easter_egg_screen.cpp:270
 #: src/states_screens/online/tracks_screen.cpp:623
@@ -5121,7 +5121,7 @@ msgstr "คุณแน่ใจหรือว่าต้องการนำ
 #: src/states_screens/edit_gp_screen.cpp:134
 #: src/states_screens/edit_gp_screen.cpp:382
 msgid "Do you want to save your changes?"
-msgstr "คุณต้องการบันทึกการเปลี่ยนแปลงของคุณหรือไม่?\n "
+msgstr "คุณต้องการบันทึกการเปลี่ยนแปลงของคุณหรือไม่?"
 
 #: src/states_screens/edit_gp_screen.cpp:152
 msgid "Laps"
@@ -5129,7 +5129,7 @@ msgstr "รอบ"
 
 #: src/states_screens/edit_gp_screen.cpp:153
 msgid "Reversed"
-msgstr "กลับด้าน\n "
+msgstr "กลับด้าน"
 
 #. I18N: Indicate that the grand prix is modified and not saved
 #: src/states_screens/edit_gp_screen.cpp:290
@@ -5145,45 +5145,45 @@ msgstr "เกิดข้อผิดพลาดขณะพยายามบ
 msgid "Select a track"
 msgstr "เลือกสนามแข่ง"
 
-#: src/states_screens/feature_unlocked.cpp:250
+#: src/states_screens/feature_unlocked.cpp:254
 #, c-format
 msgid "You completed the easy challenge! Points earned on this level: %i/%i"
 msgstr "คุณทำแชลเล็นจง่าย ๆ ! คะแนนที่ได้รับในระดับนี้:%i/%i"
 
-#: src/states_screens/feature_unlocked.cpp:256
+#: src/states_screens/feature_unlocked.cpp:260
 #, c-format
 msgid ""
 "You completed the intermediate challenge! Points earned on this level: %i/%i"
 msgstr "คุณทำแชลเล็นจปานกลาง ! คะแนนที่ได้รับในระดับนี้ %i/%i"
 
-#: src/states_screens/feature_unlocked.cpp:262
+#: src/states_screens/feature_unlocked.cpp:266
 #, c-format
 msgid ""
 "You completed the difficult challenge! Points earned on this level: %i/%i"
 msgstr "คุณทำแชลเล็นจแบบยาก ! คะแนนที่ได้รับในระดับนี้: %i/%i"
 
-#: src/states_screens/feature_unlocked.cpp:268
+#: src/states_screens/feature_unlocked.cpp:272
 #, c-format
 msgid ""
 "You completed the SuperTux challenge! Points earned on this level: %i/%i"
-msgstr "คุณทำภารกิจ SuperTux สำเร็จแล้ว! คะแนนที่ได้รับในระดับ %i /%i\n "
+msgstr "คุณทำภารกิจ SuperTux สำเร็จแล้ว! คะแนนที่ได้รับในระดับ %i /%i"
 
-#: src/states_screens/feature_unlocked.cpp:311
+#: src/states_screens/feature_unlocked.cpp:315
 #, c-format
 msgid "You unlocked %s!"
-msgstr "คุณปลดล็อค %s แล้ว !\n "
+msgstr "คุณปลดล็อค %s แล้ว !"
 
-#: src/states_screens/feature_unlocked.cpp:630
+#: src/states_screens/feature_unlocked.cpp:645
 msgid "Challenge Completed"
 msgstr "แชลเล็นจเสร็จสมบูรณ์"
 
-#: src/states_screens/feature_unlocked.cpp:669
+#: src/states_screens/feature_unlocked.cpp:684
 msgid "You unlocked track %0"
 msgstr "คุณปลดล็อกสนามแข่ง %0  แล้ว"
 
-#: src/states_screens/feature_unlocked.cpp:715
+#: src/states_screens/feature_unlocked.cpp:730
 msgid "You unlocked grand prix %0"
-msgstr "คุณปลดล็อกกรังปรีซ์ %0\n "
+msgstr "คุณปลดล็อกกรังปรีซ์ %0"
 
 #: src/states_screens/ghost_replay_selection.cpp:153
 msgctxt "column_name"
@@ -5194,18 +5194,18 @@ msgstr "สนามแข่ง"
 #: src/states_screens/online/server_selection.cpp:134
 msgctxt "column_name"
 msgid "Players"
-msgstr "ผู้เล่น\n "
+msgstr "ผู้เล่น"
 
 #: src/states_screens/gp_info_screen.cpp:172
 #: src/states_screens/gp_info_screen.cpp:230
 msgid "Reload"
-msgstr "โหลดซ้ำ\n "
+msgstr "โหลดซ้ำ"
 
 #: src/states_screens/grand_prix_cutscene.cpp:77
 #: src/states_screens/grand_prix_editor_screen.cpp:100
 #: src/states_screens/grand_prix_editor_screen.cpp:117
 msgid "Please enter the name of the grand prix"
-msgstr "กรุณากรอกชื่อกรังปรีซ์\n "
+msgstr "กรุณากรอกชื่อกรังปรีซ์"
 
 #: src/states_screens/grand_prix_editor_screen.cpp:168
 msgid "Please select a Grand Prix"
@@ -5213,24 +5213,24 @@ msgstr "โปรดเลือกกรังด์ปรีซ์"
 
 #: src/states_screens/grand_prix_editor_screen.cpp:336
 msgid "User defined"
-msgstr "ผู้ใช้กำหนด\n "
+msgstr "กำหนดโดยผู้ใช้"
 
 #: src/states_screens/grand_prix_editor_screen.cpp:349
 msgid "Name is empty."
-msgstr "ชื่อว่าง\n "
+msgstr "ชื่อว่าง"
 
 #: src/states_screens/grand_prix_editor_screen.cpp:357
 msgid "Another grand prix with this name already exists."
-msgstr "กรังปรีซ์ชื่อนี้มีอยู่แล้ว\n "
+msgstr "กรังปรีซ์ชื่อนี้มีอยู่แล้ว"
 
 #: src/states_screens/grand_prix_editor_screen.cpp:363
 msgid "Name is too long."
-msgstr "ชื่อยาวเกินไป\n "
+msgstr "ชื่อยาวเกินไป"
 
 #. I18N: when failing a GP
 #: src/states_screens/grand_prix_lose.cpp:157
 msgid "Better luck next time!"
-msgstr "โชคดีในครั้งต่อไป!\n "
+msgstr "โชคดีในครั้งต่อไป!"
 
 #: src/states_screens/grand_prix_win.cpp:166
 #: src/states_screens/race_result_gui.cpp:283
@@ -5258,21 +5258,21 @@ msgstr "คุณแน่ใจหรือไม่ว่าต้องกา
 msgid "Are you sure you want to remove all of your high scores?"
 msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบคะแนนสูงสุดทั้งหมดของคุณ?"
 
-#: src/states_screens/kart_selection.cpp:434
+#: src/states_screens/kart_selection.cpp:442
 msgid "Connect a keyboard or gamepad to play splitscreen multiplayer"
 msgstr "เชื่อมต่อแป้นพิมพ์หรือเกมแพดเพื่อเล่นผู้เล่นหลายคนแบบแบ่งหน้าจอ"
 
-#: src/states_screens/kart_selection.cpp:912
-#: src/states_screens/kart_selection.cpp:1595
+#: src/states_screens/kart_selection.cpp:928
+#: src/states_screens/kart_selection.cpp:1611
 msgid "Random Kart"
 msgstr "สุ่มรถแข่ง"
 
-#: src/states_screens/kart_selection.cpp:931
+#: src/states_screens/kart_selection.cpp:947
 msgid "Locked"
-msgstr "ถูกล็อค\n "
+msgstr "ถูกล็อค"
 
-#: src/states_screens/kart_selection.cpp:1032
-#: src/states_screens/online/networking_lobby.cpp:675
+#: src/states_screens/kart_selection.cpp:1048
+#: src/states_screens/online/networking_lobby.cpp:676
 msgid ""
 "Everyone:\n"
 "Press the 'Select' button to join the game"
@@ -5280,7 +5280,7 @@ msgstr "ทุกคน:\nกดปุ่ม 'เลือก' เพื่อ�
 
 #: src/states_screens/main_menu_screen.cpp:262
 msgid "Would you like to play the tutorial of the game?"
-msgstr "คุณต้องการเล่นบทช่วยสอนของเกมหรือไม่?\n "
+msgstr "คุณต้องการเล่นบทช่วยสอนของเกมหรือไม่?"
 
 #: src/states_screens/main_menu_screen.cpp:558
 msgid ""
@@ -5333,34 +5333,34 @@ msgstr "ชื่อต้องมีความยาวระหว่าง
 
 #: src/states_screens/online/create_server_screen.cpp:308
 msgid "Incorrect characters in password!"
-msgstr "อักขระไม่ถูกต้องในรหัสผ่าน!\n "
+msgstr "อักขระไม่ถูกต้องในรหัสผ่าน!"
 
 #. I18N: In the networking lobby, ready button is to allow player to tell
 #. server that he is ready for next game for owner less server
-#: src/states_screens/online/networking_lobby.cpp:192
+#: src/states_screens/online/networking_lobby.cpp:193
 msgid "Ready"
 msgstr "พร้อม"
 
 #. I18N: Live join is displayed in networking lobby to allow players
 #. to join the current started in-progress game
-#: src/states_screens/online/networking_lobby.cpp:195
+#: src/states_screens/online/networking_lobby.cpp:196
 msgid "Live join"
 msgstr "เข้าร่วมสด"
 
 #. I18N: Spectate is displayed in networking lobby to allow players
 #. to join the current started in-progress game
-#: src/states_screens/online/networking_lobby.cpp:200
+#: src/states_screens/online/networking_lobby.cpp:201
 msgid "Spectate"
 msgstr "ผู้ชม"
 
-#: src/states_screens/online/networking_lobby.cpp:201
+#: src/states_screens/online/networking_lobby.cpp:202
 msgid "Install addon"
-msgstr "ติดตั้งส่วนเสริม\n "
+msgstr "ติดตั้งส่วนเสริม"
 
 #. I18N: In the networking lobby, show when player is required to
 #. wait before the current game finish with remaining time,
 #. showing the current track name inside bracket
-#: src/states_screens/online/networking_lobby.cpp:540
+#: src/states_screens/online/networking_lobby.cpp:541
 #, c-format
 msgid ""
 "Please wait for the current game's (%s) end, estimated remaining time: %s."
@@ -5368,32 +5368,32 @@ msgstr "โปรดรอการสิ้นสุดของเกมปั
 
 #. I18N: In the networking lobby, show when player is required
 #. to wait before the current game finish with remaining time
-#: src/states_screens/online/networking_lobby.cpp:548
+#: src/states_screens/online/networking_lobby.cpp:549
 #, c-format
 msgid "Please wait for the current game's end, estimated remaining time: %s."
-msgstr "โปรดรอการสิ้นสุดของเกมปัจจุบัน เวลาที่เหลืออยู่โดยประมาณ: %s.\n "
+msgstr "โปรดรอการสิ้นสุดของเกมปัจจุบัน เวลาที่เหลืออยู่โดยประมาณ: %s."
 
 #. I18N: In the networking lobby, show when player is required
 #. to wait before the current game finish with progress in
 #. percent, showing the current track name inside bracket
-#: src/states_screens/online/networking_lobby.cpp:560
+#: src/states_screens/online/networking_lobby.cpp:561
 msgid "Please wait for the current game's (%s) end, estimated progress: %s%."
 msgstr "โปรดรอการสิ้นสุดของเกมปัจจุบัน (%s) ความคืบหน้าโดยประมาณ: %s%"
 
 #. I18N: In the networking lobby, show when player is required
 #. to wait before the current game finish with progress in
 #. percent
-#: src/states_screens/online/networking_lobby.cpp:569
+#: src/states_screens/online/networking_lobby.cpp:570
 msgid "Please wait for the current game's end, estimated progress: %d%."
 msgstr "โปรดรอการสิ้นสุดของเกมปัจจุบัน ความคืบหน้าโดยประมาณ: %d%"
 
 #. I18N: In the networking lobby, show when player is required to
 #. wait before the current game finish
-#: src/states_screens/online/networking_lobby.cpp:577
+#: src/states_screens/online/networking_lobby.cpp:578
 msgid "Please wait for the current game's end."
-msgstr "โปรดรอการสิ้นสุดของเกมปัจจุบัน\n "
+msgstr "โปรดรอการสิ้นสุดของเกมปัจจุบัน"
 
-#: src/states_screens/online/networking_lobby.cpp:644
+#: src/states_screens/online/networking_lobby.cpp:645
 #, c-format
 msgid "Game will start if there is more than %d player."
 msgid_plural "Game will start if there are more than %d players."
@@ -5401,7 +5401,7 @@ msgstr[0] "เกมจะเริ่มหากมีผู้เล่นม
 
 #. I18N: In the networking lobby, display the starting timeout
 #. for owner-less server to begin a game
-#: src/states_screens/online/networking_lobby.cpp:658
+#: src/states_screens/online/networking_lobby.cpp:659
 #, c-format
 msgid ""
 "Starting after %d second, or once everyone has pressed the 'Ready' button."
@@ -5409,17 +5409,17 @@ msgid_plural ""
 "Starting after %d seconds, or once everyone has pressed the 'Ready' button."
 msgstr[0] "เริ่มต้นหลังจาก %d วินาทีหรือเมื่อทุกคนกดปุ่ม 'พร้อม'"
 
-#: src/states_screens/online/networking_lobby.cpp:695
+#: src/states_screens/online/networking_lobby.cpp:696
 #, c-format
 msgid "Connecting to server %s"
 msgstr "กำลังเชื่อมต่อกับเซิร์ฟเวอร์ %s"
 
-#: src/states_screens/online/networking_lobby.cpp:700
+#: src/states_screens/online/networking_lobby.cpp:701
 msgid "Finding a quick play server"
-msgstr "หาเซิฟเวอร์เล่นด่วน\n "
+msgstr "หาเซิฟเวอร์เล่นด่วน"
 
 #. I18N: In kart screen, show before the voting period in network ends.
-#: src/states_screens/online/network_kart_selection.cpp:198
+#: src/states_screens/online/network_kart_selection.cpp:218
 #: src/states_screens/online/tracks_screen.cpp:879
 #, c-format
 msgid "Remaining time: %d"
@@ -5451,11 +5451,11 @@ msgstr "สถานะ"
 #: src/states_screens/online/online_profile_friends.cpp:94
 #: src/states_screens/online/online_profile_friends.cpp:274
 msgid "Fetching friends"
-msgstr "กำลังเรียกเพื่อน\n "
+msgstr "กำลังเรียกเพื่อน"
 
 #: src/states_screens/online/online_profile_friends.cpp:236
 msgid "New Request"
-msgstr "คำขอใหม่\n "
+msgstr "คำขอใหม่"
 
 #: src/states_screens/online/online_profile_friends.cpp:237
 msgid "Pending"
@@ -5463,11 +5463,11 @@ msgstr "รอดำเนินการ"
 
 #: src/states_screens/online/online_profile_friends.cpp:241
 msgid "Offline"
-msgstr "ออฟไลน์\n "
+msgstr "ออฟไลน์"
 
 #: src/states_screens/online/online_profile_settings.cpp:79
 msgid "Enter new E-mail below"
-msgstr "ใส่อีเมลใหม่ด้านล่าง\n "
+msgstr "ใส่อีเมลใหม่ด้านล่าง"
 
 #: src/states_screens/online/online_profile_settings.cpp:84
 msgid "New Email has to be between 5 and 254 characters long!"
@@ -5475,11 +5475,11 @@ msgstr "อีเมลใหม่ต้องมีความยาวระ
 
 #: src/states_screens/online/online_profile_settings.cpp:93
 msgid "New Email is invalid!"
-msgstr "อีเมลใหม่ไม่ถูกต้อง!\n "
+msgstr "อีเมลใหม่ไม่ถูกต้อง!"
 
 #: src/states_screens/online/online_profile_settings.cpp:118
 msgid "E-mail changed!"
-msgstr "อีเมลเปลี่ยน!\n "
+msgstr "อีเมลเปลี่ยน!"
 
 #: src/states_screens/online/online_profile_settings.cpp:120
 #, c-format
@@ -5502,7 +5502,7 @@ msgstr "คุณไม่สามารถเล่นออนไลน์ไ
 #: src/states_screens/online/online_user_search.cpp:179
 #: src/states_screens/online/online_user_search.cpp:242
 msgid "Searching"
-msgstr "กำลังค้นหา\n "
+msgstr "กำลังค้นหา"
 
 #: src/states_screens/online/register_screen.cpp:169
 #: src/states_screens/options/user_screen.cpp:127
@@ -5517,7 +5517,7 @@ msgstr "ไม่สามารถสร้างผู้เล่น %s"
 
 #: src/states_screens/online/register_screen.cpp:306
 msgid "User name cannot be empty."
-msgstr "ต้องระบุชื่อผู้ใช้\n "
+msgstr "ต้องระบุชื่อผู้ใช้"
 
 #: src/states_screens/online/register_screen.cpp:362
 msgid "Online username and password must not be the same!"
@@ -5525,7 +5525,7 @@ msgstr ""
 
 #: src/states_screens/online/register_screen.cpp:366
 msgid "Emails don't match!"
-msgstr "อีเมลไม่ตรงกัน!\n "
+msgstr "อีเมลไม่ตรงกัน!"
 
 #: src/states_screens/online/register_screen.cpp:370
 msgid ""
@@ -5539,7 +5539,7 @@ msgstr "ชื่อผู้ใช้ออนไลน์ต้องมีค
 
 #: src/states_screens/online/register_screen.cpp:378
 msgid "Online username must not start with a number!"
-msgstr "ชื่อผู้ใช้ออนไลน์ต้องไม่ขึ้นต้นด้วยตัวเลข!\n "
+msgstr "ชื่อผู้ใช้ออนไลน์ต้องไม่ขึ้นต้นด้วยตัวเลข!"
 
 #: src/states_screens/online/register_screen.cpp:386
 msgid "Email has to be between 5 and 254 characters long!"
@@ -5547,7 +5547,7 @@ msgstr "อีเมลต้องมีความยาวระหว่า
 
 #: src/states_screens/online/register_screen.cpp:392
 msgid "Email is invalid!"
-msgstr "อีเมล์ไม่ถูกต้อง!\n "
+msgstr "อีเมล์ไม่ถูกต้อง!"
 
 #: src/states_screens/online/register_screen.cpp:456
 msgid ""
@@ -5557,7 +5557,7 @@ msgstr "คุณจะได้รับอีเมลพร้อมคำแ
 
 #: src/states_screens/online/register_screen.cpp:495
 msgid "Internet access is disabled, please enable it in the options"
-msgstr "การเข้าถึงอินเทอร์เน็ตถูกปิดใช้งาน โปรดเปิดใช้งานในตัวเลือก\n "
+msgstr "การเข้าถึงอินเทอร์เน็ตถูกปิดใช้งาน โปรดเปิดใช้งานในตัวเลือก"
 
 #: src/states_screens/online/server_selection.cpp:132
 msgctxt "column_name"
@@ -5567,7 +5567,7 @@ msgstr "ชื่อ"
 #: src/states_screens/online/server_selection.cpp:133
 msgctxt "column_name"
 msgid "Game mode"
-msgstr "โหมดเกม\n "
+msgstr "โหมดเกม"
 
 #. I18N: In server selection screen, owner of server, only displayed
 #. if it's localhost or friends'
@@ -5580,7 +5580,7 @@ msgstr "เจ้าของ"
 #: src/states_screens/online/server_selection.cpp:142
 msgctxt "column_name"
 msgid "Distance (km)"
-msgstr "ระยะทาง (กม.)\n "
+msgstr "ระยะทาง (กม.)"
 
 #. I18N: In server selection screen, unknown distance to server
 #: src/states_screens/online/server_selection.cpp:286
@@ -5599,15 +5599,15 @@ msgstr "ไม่พบ IPv6 คุณอาจไม่สามารถเข
 
 #: src/states_screens/online/server_selection.cpp:465
 msgid "No server is available."
-msgstr "ไม่มีเซิร์ฟเวอร์ที่พร้อมใช้งาน\n "
+msgstr "ไม่มีเซิร์ฟเวอร์ที่พร้อมใช้งาน"
 
 #: src/states_screens/online/server_selection.cpp:473
 msgid "Fetching servers"
-msgstr "กำลังดึงเซิร์ฟเวอร์\n "
+msgstr "กำลังดึงเซิร์ฟเวอร์"
 
 #: src/states_screens/online/server_selection.cpp:539
 msgid "Server Bookmarks"
-msgstr "บุ๊กมาร์กเซิร์ฟเวอร์\n "
+msgstr "บุ๊กมาร์กเซิร์ฟเวอร์"
 
 #. I18N: In track screen for networking, clarify voting phase
 #: src/states_screens/online/tracks_screen.cpp:318
@@ -5622,19 +5622,19 @@ msgstr "หากผู้เล่นส่วนใหญ่เลือกเ
 #: src/states_screens/online/tracks_screen.cpp:505
 #: src/states_screens/track_info_screen.cpp:303
 msgid "Random item location"
-msgstr "สุ่มตำแหน่งของไอเท็ม\n "
+msgstr "สุ่มตำแหน่งของไอเท็ม"
 
 #. I18N: In track screen
 #: src/states_screens/online/tracks_screen.cpp:487
 #: src/states_screens/track_info_screen.cpp:455
 msgid "Number of goals to win"
-msgstr "จำนวนประตูที่จะชนะ\n "
+msgstr "จำนวนประตูที่จะชนะ"
 
 #. I18N: In the track info screen
 #: src/states_screens/online/tracks_screen.cpp:535
 #: src/states_screens/track_info_screen.cpp:298
 msgid "Drive in reverse"
-msgstr "ขับถอยหลัง\n "
+msgstr "ขับถอยหลัง"
 
 #: src/states_screens/online/tracks_screen.cpp:609
 #: src/states_screens/tracks_and_gp_screen.cpp:291
@@ -5788,7 +5788,7 @@ msgstr "ในโหมดผู้เล่นหลายคน ผู้เ�
 #. will download from stk server
 #: src/states_screens/options/options_screen_general.cpp:117
 msgid "Install full game assets"
-msgstr "ติดตั้งเนื้อหาเกมตัวเต็ม\n "
+msgstr "ติดตั้งเนื้อหาเกมตัวเต็ม"
 
 #: src/states_screens/options/options_screen_general.cpp:236
 msgid "Are you sure to uninstall full game assets?"
@@ -5811,7 +5811,7 @@ msgstr "แตะที่อุปกรณ์เพื่อกำหนดค
 #. I18N: in the language choice, to select the same language as the OS
 #: src/states_screens/options/options_screen_language.cpp:89
 msgid "System Language"
-msgstr "ภาษาของระบบ\n "
+msgstr "ภาษาของระบบ"
 
 #. I18N: In the UI options, minimap position in the race UI
 #: src/states_screens/options/options_screen_ui.cpp:93
@@ -5856,17 +5856,17 @@ msgstr "เล็ก"
 #. I18N: In the UI options, Medium font size
 #: src/states_screens/options/options_screen_ui.cpp:134
 msgid "Medium"
-msgstr "ปานกลาง\n "
+msgstr "ปานกลาง"
 
 #. I18N: In the UI options, Large font size
 #: src/states_screens/options/options_screen_ui.cpp:136
 msgid "Large"
-msgstr "ใหญ่\n "
+msgstr "ใหญ่"
 
 #. I18N: In the UI options, Very large font size
 #: src/states_screens/options/options_screen_ui.cpp:138
 msgid "Very large"
-msgstr "ขนาดใหญ่มาก\n "
+msgstr "ขนาดใหญ่มาก"
 
 #: src/states_screens/options/options_screen_ui.cpp:500
 msgid ""
@@ -5878,110 +5878,110 @@ msgid ""
 msgstr "โหมด Speedrun สามารถเปิดใช้งานได้ก็ต่อเมื่อเกมยังไม่ปิดตั้งแต่เปิดตัวสตอรี่\n\nการปิดเกมก่อนที่สตอรี่จะเสร็จสิ้นจะทำให้ตัวจับเวลาเป็นโมฆะ\n\nหากต้องการใช้โหมด speedrun โปรดใช้โปรไฟล์ใหม่"
 
 #. I18N: In the video options, maximum frame per second
-#: src/states_screens/options/options_screen_video.cpp:236
+#: src/states_screens/options/options_screen_video.cpp:257
 msgid "Maximum FPS"
-msgstr "FPS สูงสุด\n "
+msgstr "FPS สูงสุด"
 
 #. I18N: In the video options, full vertical sync (usually 60fps)
-#: src/states_screens/options/options_screen_video.cpp:244
+#: src/states_screens/options/options_screen_video.cpp:265
 msgid "Full"
 msgstr "เต็ม"
 
 #. I18N: in graphical options. The \n is a newline character, place it where
 #. appropriate, two can be used if required.
-#: src/states_screens/options/options_screen_video.cpp:250
+#: src/states_screens/options/options_screen_video.cpp:271
 msgid ""
 "Vsync forces the graphics card to supply a new frame\n"
 "only when the monitor is ready to display it."
 msgstr "Vsync บังคับให้กราฟิกการ์ดจัดหาเฟรมใหม่\nเฉพาะเมื่อจอภาพพร้อมที่จะแสดงผลเท่านั้น"
 
 #. I18N: in graphical options.
-#: src/states_screens/options/options_screen_video.cpp:253
+#: src/states_screens/options/options_screen_video.cpp:274
 msgid "Full: one frame per monitor refresh"
 msgstr "เต็ม: หนึ่งเฟรมต่อการรีเฟรชจอภาพ"
 
 #. I18N: in graphical options.
-#: src/states_screens/options/options_screen_video.cpp:255
+#: src/states_screens/options/options_screen_video.cpp:276
 msgid "Vsync will not work if your drivers don't support it."
 msgstr "Vsync จะไม่ทำงานหากไดรเวอร์ของคุณไม่รองรับ"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:629
+#: src/states_screens/options/options_screen_video.cpp:676
 #, c-format
 msgid "Particles Effects: %s"
 msgstr "Particles Effects:%s"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:635
+#: src/states_screens/options/options_screen_video.cpp:682
 #, c-format
 msgid "Animated Characters: %s"
 msgstr "Animated characters%s"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:638
+#: src/states_screens/options/options_screen_video.cpp:685
 #, c-format
 msgid "Dynamic lights: %s"
 msgstr "Dynamic lights:%s"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:641
+#: src/states_screens/options/options_screen_video.cpp:688
 #, c-format
 msgid "Light scattering: %s"
 msgstr "Light scattering:%s"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:644
+#: src/states_screens/options/options_screen_video.cpp:691
 #, c-format
 msgid "Anti-aliasing: %s"
 msgstr "Anti-aliasing%s"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:647
+#: src/states_screens/options/options_screen_video.cpp:694
 #, c-format
 msgid "Ambient occlusion: %s"
 msgstr "Ambient occlusion%s"
 
-#: src/states_screens/options/options_screen_video.cpp:651
+#: src/states_screens/options/options_screen_video.cpp:698
 #, c-format
 msgid "Shadows: %s"
 msgstr "Shadows %s"
 
-#: src/states_screens/options/options_screen_video.cpp:653
+#: src/states_screens/options/options_screen_video.cpp:700
 #, c-format
 msgid "Shadows: %i"
 msgstr "Shadows %i"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:656
+#: src/states_screens/options/options_screen_video.cpp:703
 #, c-format
 msgid "Bloom: %s"
 msgstr "Bloom%s"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:660
+#: src/states_screens/options/options_screen_video.cpp:707
 #, c-format
 msgid "Glow (outlines): %s"
 msgstr "Glow (Outlines)%s"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:664
+#: src/states_screens/options/options_screen_video.cpp:711
 #, c-format
 msgid "Light shaft (God rays): %s"
 msgstr "Light shaft (God rays): %s"
 
-#: src/states_screens/options/options_screen_video.cpp:669
+#: src/states_screens/options/options_screen_video.cpp:716
 #, c-format
 msgid "Rendered image quality: %s"
 msgstr "คุณภาพการเรนเดอร์ %s"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:688
+#: src/states_screens/options/options_screen_video.cpp:735
 #, c-format
 msgid "Motion blur: %s"
 msgstr "Motion blur %s"
 
 #. I18N: in graphical options
-#: src/states_screens/options/options_screen_video.cpp:692
+#: src/states_screens/options/options_screen_video.cpp:739
 #, c-format
 msgid "Depth of field: %s"
 msgstr "Depth of field%s"
@@ -6166,11 +6166,11 @@ msgstr "สนามแข่ง %i/%i"
 
 #: src/states_screens/race_result_gui.cpp:1827
 msgid "Grand Prix progress:"
-msgstr "ความคืบหน้ากรังปรีซ์:\n "
+msgstr "ความคืบหน้ากรังปรีซ์:"
 
 #: src/states_screens/race_result_gui.cpp:1873
 msgid "Highscores"
-msgstr "คะแนนสูง\n "
+msgstr "คะแนนสูง"
 
 #: src/states_screens/race_result_gui.cpp:2022
 #, c-format
@@ -6198,7 +6198,7 @@ msgstr "บรรลุข้อกำหนดของ SuperTux"
 
 #: src/states_screens/race_setup_screen.cpp:89
 msgid "All blows allowed, so catch weapons and make clever use of them!"
-msgstr "อนุญาตให้โจมตีได้ทั้งหมด ดังนั้นจงจับอาวุธและใช้มันอย่างชาญฉลาด!"
+msgstr "อนุญาตระเบิดทั้งหมดดังนั้นคว้าอาวุธและใช้พวกเขาอย่างชาญฉลาด"
 
 #: src/states_screens/race_setup_screen.cpp:96
 msgid "Contains no powerups, so only your driving skills matter!"
@@ -6207,11 +6207,11 @@ msgstr "ไม่มีเพาเวอร์อัพ ทักษะกา�
 #. I18N: short definition for follow-the-leader game mode
 #: src/states_screens/race_setup_screen.cpp:109
 msgid "Keep up with the leader kart but don't overtake it!"
-msgstr "ตามผู้นำรถแข่งแต่อย่าแซงมัน!"
+msgstr "ให้ทันกับรถผู้นำแต่ไม่แซงมัน!"
 
 #: src/states_screens/race_setup_screen.cpp:115
 msgid "Hit others with weapons until they lose all their lives."
-msgstr "โจมตีผู้อื่นด้วยอาวุธจนเสียชีวิต\n "
+msgstr "ใช้อาวุธโจมตีผู้อื่นจนกว่าพวกเขาจะตาย"
 
 #: src/states_screens/race_setup_screen.cpp:120
 msgid "Push the ball into the opposite cage to score goals."
@@ -6316,7 +6316,7 @@ msgstr "เร่งความเร็วด้วยการเลื่อ
 msgid ""
 "Accelerate by moving the accelerator upwards, and steer by rotating your "
 "device."
-msgstr "เร่งความเร็วโดยเลื่อนคันเร่งขึ้นด้านบน และบังคับด้วยการหมุนอุปกรณ์\n "
+msgstr "เร่งความเร็วโดยเลื่อนคันเร่งขึ้นด้านบน และบังคับด้วยการหมุนอุปกรณ์"
 
 #: ../stk-assets/tracks/tutorial/scripting.as:59
 #, c-format
